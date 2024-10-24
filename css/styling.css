@@ -1,0 +1,19 @@
+  table,td,th{
+      border: 3px solid black;
+  }
+  table {
+    border: 3px solid #0f0f15;
+}
+td img {
+    width: 80px;
+    height: auto;
+}
+table {
+    border: 3px solid black;
+
+}
+
+th,td {
+    border: 1px solid #131111;
+    padding: 10px;
+}
